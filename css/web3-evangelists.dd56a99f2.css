@@ -2652,7 +2652,7 @@ figcaption {
   height: 400px;
   color: #fff;
   background-color: #f4f4f4;
-  background-image: linear-gradient(270deg, rgba(5, 56, 52, .8), #04a08f 55%, rgba(75, 156, 175, .8)), url("https://assets-global.website-files.com/6410c8389c1329eb1b26edef/641379a3b6a5b451de5ed814_DALL%C2%B7E%202023-03-16%2016.18.05%20-%20vast%20space%20full%20of%20stars%2C%20digital%20art.png"), linear-gradient(236deg, #eded5d, #253b98 57%, #bbfabd);
+  background-image: linear-gradient(270deg, rgba(5, 56, 52, .8), #04a08f 55%, rgba(75, 156, 175, .8)), url("../images/641379a3b6a5b451de5ed814_DALL%C2%B7E%202023-03-16%2016.18.05%20-%20vast%20space%20full%20of%20stars%2C%20digital%20art.png"), linear-gradient(236deg, #eded5d, #253b98 57%, #bbfabd);
   background-position: 0 0, 0 0, 0 0;
   background-size: auto, cover, auto;
   border-radius: 20px;
@@ -2934,7 +2934,7 @@ figcaption {
   height: 620px;
   color: #fff;
   background-color: #f4f4f4;
-  background-image: url("https://assets-global.website-files.com/6410c8389c1329eb1b26edef/6410c8399c13295c9326ee22_portfolio%201%20-%20wide.svg");
+  background-image: url("../images/6410c8399c13295c9326ee22_portfolio%201%20-%20wide.svg");
   background-position: 50%;
   background-size: cover;
   justify-content: center;
@@ -2944,12 +2944,12 @@ figcaption {
 }
 
 .project-overview-header.cc-project-2-header {
-  background-image: url("https://assets-global.website-files.com/6410c8389c1329eb1b26edef/6410c8399c1329d70026ee19_portfolio%202%20-%20wide.svg");
+  background-image: url("../images/6410c8399c1329d70026ee19_portfolio%202%20-%20wide.svg");
   background-position: 50%;
 }
 
 .project-overview-header.cc-project-3-header {
-  background-image: url("https://assets-global.website-files.com/6410c8389c1329eb1b26edef/6410c8399c1329838e26ee23_portfolio%203%20-%20wide.svg");
+  background-image: url("../images/6410c8399c1329838e26ee23_portfolio%203%20-%20wide.svg");
   background-size: cover;
 }
 
